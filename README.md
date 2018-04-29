@@ -14,11 +14,11 @@
 ---
 
 ## COMMANDS & PERMISSIONS
-| COMMAND | PERMISSION |
+| COMMAND | DESCRIPTION | PERMISSION |
 |---|---|---|
-| /warp | no permission |
-| /addwarp | add.warp |
-| /delwarp | delete.warp |
+| /warp | view all warps | no permission |
+| /addwarp | to add a warp | add.warp |
+| /delwarp | to delete your warps | delete.warp |
 
 ---
 
