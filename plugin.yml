@@ -1,0 +1,26 @@
+name: WarpUI
+main: WarpUI\Main
+api: [3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+version: 1.2
+author: georgianYT
+
+commands:
+ warp:
+  description: "Allow teleport player to the world."
+  
+ addwarp:
+  description: "Add warp."
+  permission: add.warp
+  
+ delwarp:
+  description: "Delete warp."
+  permission: delete.warp
+  
+permissions:
+ add.warp:
+  default: op
+  description: "Add Warp permission."
+  
+ delete.warp:
+  default: op
+  description: "Delete Warp permission."
