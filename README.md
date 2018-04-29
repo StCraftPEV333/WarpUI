@@ -14,7 +14,7 @@
 ---
 
 ## COMMANDS & PERMISSIONS
-| COMMAND | DESCRIPTION | PERMISSION |
+| COMMAND | PERMISSION |
 |---|---|---|
 | /warp | no permission |
 | /addwarp | add.warp |
